@@ -28,3 +28,6 @@ La Capilla Real es otro lugar imprescindible, con su arquitectura imponente y he
 Dedica tiempo a recorrer los jardines, que son una obra maestra del paisajismo francés. Asegúrate de visitar los grandes y pequeños canales, el Gran Trianón y el Petit Trianón. Si te gusta caminar, lleva zapatos cómodos, ya que los jardines son enormes.
 Si vas durante el verano, no te pierdas el espectáculo de Las fuentes musicales, donde las fuentes se iluminan y se sincronizan con la música clásica, un espectáculo muy popular.
 El Labertinto de los "Bosques", con sus avenidas arboladas, también es un lugar interesante para pasear.
+
+# foto
+https://images.app.goo.gl/dpfza6ao4jiXqSy57
