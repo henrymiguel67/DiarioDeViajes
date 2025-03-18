@@ -32,3 +32,7 @@ El Parque Ueno es un espacio verde lleno de museos, un zoológico y hermosos est
 
 7. Visita Odaiba:
 Odaiba es una isla artificial en la bahía de Tokio, famosa por sus modernas atracciones. Aquí encontrarás centros comerciales como DiverCity Tokyo Plaza (donde se encuentra una estatua gigante de Gundam), el teamLab Borderless, un museo interactivo de arte digital, y la fuente de la Estatua de la Libertad. También es un excelente lugar para disfrutar de la vista al atardecer sobre la bahía de Tokio.
+
+# foto
+https://images.app.goo.gl/zoAhonEJoMH5Eiu29 
+
