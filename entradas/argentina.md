@@ -40,3 +40,19 @@ Feria de Mataderos: Si estás en Buenos Aires durante el fin de semana, visita l
 
 # foto
 https://images.app.goo.gl/c3ppdqwd8JnKYUuB7
+
+# informacion sobre Buenos Aires
+Buenos Aires es la capital de Argentina y la ciudad más grande del país. Situada en la región pampeana, en la costa del río de la Plata, Buenos Aires es un importante centro político, cultural, económico y comercial tanto de Argentina como de América Latina. Es una de las ciudades más visitadas del continente, conocida por su mezcla de lo moderno y lo tradicional, su vida nocturna, su arte, su historia y, por supuesto, por el tango.
+
+1. Historia
+La ciudad fue fundada en 1536 por el explorador español Pedro de Mendoza, pero fue en 1580 cuando se consolidó con la fundación definitiva realizada por Juan de Garay. A lo largo de los siglos, Buenos Aires fue un puerto estratégico para el comercio y un punto de encuentro para inmigrantes europeos, especialmente españoles e italianos, lo que dejó una profunda huella en su cultura.
+
+En 1816, Argentina proclamó su independencia, y Buenos Aires desempeñó un papel central en los movimientos por la independencia de Argentina. La ciudad pasó por varias transformaciones sociales, políticas y urbanísticas hasta convertirse en la metrópoli cosmopolita que es hoy.
+
+2. Demografía
+Buenos Aires tiene una población de aproximadamente 3 millones de habitantes en la ciudad y más de 15 millones en su área metropolitana. Esta aglomeración es una de las más grandes del mundo, siendo el centro económico y cultural de Argentina. Buenos Aires es una ciudad diversa y multicultural, con una mezcla de habitantes de diferentes orígenes, sobre todo por la importante inmigración que recibió a lo largo de los siglos XIX y XX.
+
+3. Economía
+Buenos Aires es el centro económico más importante de Argentina. La ciudad alberga las principales instituciones financieras del país, como el Banco Central y la Bolsa de Comercio de Buenos Aires, y es el principal puerto comercial. Buenos Aires también es clave en la industria del entretenimiento, la moda y la tecnología en Argentina.
+
+El turismo es una de las principales fuentes de ingresos de la ciudad, que atrae tanto a turistas nacionales como internacionales debido a su rica oferta cultural, histórica y gastronómica.
