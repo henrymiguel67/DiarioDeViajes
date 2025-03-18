@@ -29,3 +29,6 @@ Afternoon tea: Vive la experiencia del clásico té de la tarde, una tradición 
 Street food: Londres es famosa por su comida callejera. Visita el Borough Market o el Street Feast en Lewisham para disfrutar de todo tipo de platos, desde tacos hasta baos.
 Restaurantes internacionales: Londres es un crisol de culturas, por lo que puedes disfrutar de una gastronomía variada. ¡Prueba comida de India en Brick Lane, cocina tailandesa en Soho, o comida italiana en Little Venice!
 
+# foto
+https://images.app.goo.gl/wPv15WMMDFr1HhPb6
+
