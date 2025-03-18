@@ -29,3 +29,6 @@ Parque La Mexicana (Santa Fe): Un espacio moderno y natural en la zona de Santa 
 La Roma y Condesa: Si te gustan los bares y restaurantes con un ambiente bohemio y relajado, estos dos barrios son ideales. Disfruta de una noche en los bares con música en vivo y prueba la mezcla de cócteles locales.
 Polanco: Para una experiencia más elegante, Polanco tiene algunos de los mejores restaurantes y bares de la ciudad. La zona cuenta con opciones de lujo para una cena o copa nocturna.
 Zona Rosa: Este barrio es famoso por su vida nocturna, especialmente en los clubes y bares que se encuentran en calles como Avenida Oaxaca.
+
+# foto
+https://images.app.goo.gl/Td64GoRMSeJ8Aqh68
