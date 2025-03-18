@@ -25,3 +25,7 @@ Café Cultura: No olvides disfrutar del café local en los acogedores cafés de 
 5. Aventuras al Aire Libre
 Excursión a las Montañas Alpes del Sur: Desde Christchurch, puedes organizar excursiones a las cercanas montañas Alpes del Sur. En invierno, la zona ofrece excelentes opciones para esquiar o practicar snowboard. Durante el resto del año, el senderismo, las caminatas y el ciclismo son actividades populares.
 Excursión a la Península de Banks: A solo una hora de Christchurch, esta península es ideal para hacer senderismo y disfrutar de impresionantes paisajes costeros. Puedes visitar el pintoresco pueblo de Akaroa, famoso por su herencia francesa, y dar un paseo en bote para ver delfines y otras especies marinas.
+
+# foto
+https://images.app.goo.gl/p4PkGWTjBJzYNaiS8
+
