@@ -32,3 +32,5 @@ Restaurantes internacionales: Londres es un crisol de culturas, por lo que puede
 # foto
 https://images.app.goo.gl/wPv15WMMDFr1HhPb6
 
+# informacion sobre londres
+Londres es la capital de Reino Unido y una de las ciudades más importantes y famosas del mundo. Con su rica historia, su diversidad cultural y su impacto global en las finanzas, la política, la cultura y el arte, Londres atrae a millones de turistas cada año. 
