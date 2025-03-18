@@ -26,4 +26,6 @@ Este es uno de los templos hindúes más importantes de la ciudad y destaca por 
 6. Excursión al Lago Toba
 Medan es el punto de partida para visitar el impresionante Lago Toba, un lago volcánico gigantesco, considerado uno de los lagos más grandes del mundo. La isla de Samosir, en el centro del lago, es famosa por sus paisajes tranquilos y su cultura batak.
 
+# foto
+https://images.app.goo.gl/betjU8h8yxAuoTSZ7
 
