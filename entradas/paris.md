@@ -31,3 +31,10 @@ El Labertinto de los "Bosques", con sus avenidas arboladas, también es un lugar
 
 # foto
 https://images.app.goo.gl/dpfza6ao4jiXqSy57
+
+# Informacion sobre Versalles
+
+El Palacio de Versalles es una de las maravillas más grandes de Europa, tanto por su magnificencia arquitectónica como por su significado histórico. ¡Es un lugar imprescindible para los amantes de la historia y la arquitectura!
+
+
+
