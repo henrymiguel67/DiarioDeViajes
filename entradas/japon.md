@@ -36,3 +36,21 @@ Odaiba es una isla artificial en la bahía de Tokio, famosa por sus modernas atr
 # foto
 https://images.app.goo.gl/zoAhonEJoMH5Eiu29 
 
+# informacion sobre Tokio
+Tokio es la capital de Japón y una de las ciudades más importantes y dinámicas del mundo, conocida por su fusión única de lo tradicional y lo moderno. Es un importante centro cultural, económico y tecnológico global. Aquí te dejo información clave sobre Tokio:
+
+1. Ubicación:
+Tokio se encuentra en la isla de Honshu, en la región de Kanto, al este de Japón. Está ubicada en la bahía de Tokio, cerca del océano Pacífico, lo que le da una ubicación estratégica tanto en términos de comercio como de turismo.
+
+2. Historia:
+Fundación: La ciudad comenzó como un pequeño pueblo pesquero llamado Edo, y su crecimiento se disparó en el siglo XVII cuando el shogunato Tokugawa la convirtió en su sede. Desde entonces, fue desarrollándose hasta convertirse en la capital de Japón en 1868, cuando la ciudad fue rebautizada como Tokio, lo que significa "Capital del Este".
+Era Meiji y postguerra: Durante la Restauración Meiji en el siglo XIX, Tokio se modernizó rápidamente y comenzó a convertirse en una de las principales ciudades del mundo. Después de la Segunda Guerra Mundial, Tokio fue casi completamente destruida, pero se reconstruyó rápidamente y se transformó en una potencia económica.
+3. Demografía:
+Tokio es la ciudad más poblada de Japón y una de las más grandes del mundo. La población de la Área Metropolitana de Tokio supera los 37 millones de habitantes, lo que la convierte en la aglomeración urbana más grande del planeta.
+
+4. Economía:
+Tokio es el centro económico de Japón y una de las principales ciudades financieras del mundo. Alberga sedes de grandes corporaciones internacionales, instituciones financieras y un sinfín de empresas tecnológicas y de medios de comunicación. Tokio es conocida por su avanzada infraestructura tecnológica y su economía orientada hacia la innovación, con énfasis en robótica, inteligencia artificial y tecnología de consumo.
+
+5. Cultura:
+Tokio es una ciudad vibrante que mezcla lo moderno con lo tradicional. Aquí podrás encontrar desde templos antiguos hasta centros comerciales futuristas y de lujo. La cultura pop japonesa, como el anime, manga, y la moda juvenil, tiene su epicentro en Tokio, especialmente en barrios como Akihabara (famoso por la electrónica y el anime) y Harajuku (conocido por sus estilismos y moda alternativa).
+
