@@ -17,3 +17,6 @@ Museo Metropolitano de Arte (MET): Uno de los museos más grandes y famosos del 
 Museo de Arte Moderno (MoMA): Si te gusta el arte contemporáneo, este museo es fundamental. Alberga obras de artistas como Van Gogh, Picasso, y Andy Warhol.
 Museo Americano de Historia Natural: Un lugar fascinante para aprender sobre la historia natural del planeta, con exposiciones de dinosaurios, astrobiología y mucho más.
 Broadway: Si tienes oportunidad, disfruta de un musical o una obra de teatro en el famoso distrito de Broadway. Es una de las mejores experiencias culturales de Nueva York. Compra las entradas con anticipación o visita las taquillas de TKTS para conseguir descuentos.
+
+# foto
+https://images.app.goo.gl/EcEVg5LCZkNKfFqP8
