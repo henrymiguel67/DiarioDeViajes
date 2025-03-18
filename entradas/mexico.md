@@ -32,3 +32,56 @@ Zona Rosa: Este barrio es famoso por su vida nocturna, especialmente en los club
 
 # foto
 https://images.app.goo.gl/Td64GoRMSeJ8Aqh68
+
+# informacion sobre Ciudad de México
+1. Historia
+La Ciudad de México tiene una historia profunda que se remonta a la época prehispánica, cuando era el corazón del Imperio Azteca. Fundada en 1325 como Tenochtitlán, la ciudad estaba construida sobre un lago, lo que le confería una singular belleza y una organización urbanística avanzada para su época. Tras la llegada de los conquistadores españoles en 1519, la ciudad fue completamente transformada y reconstruida por los colonizadores. Desde entonces, ha sido el centro político, cultural y económico de México.
+
+2. Cultura y arte
+La CDMX es una de las capitales culturales más importantes de América Latina. Su oferta artística es vasta y diversa, con espacios para el arte contemporáneo, la música, el cine y las tradiciones más antiguas.
+
+Museos: La ciudad alberga algunos de los museos más importantes del mundo, como el Museo Nacional de Antropología, donde puedes aprender sobre las civilizaciones prehispánicas de México, o el Museo Frida Kahlo, ubicado en la Casa Azul en el barrio de Coyoacán. Además, tiene una oferta cultural que abarca arte moderno y contemporáneo, como en el Museo Tamayo o el Museo Universitario Arte Contemporáneo (MUAC).
+
+Arte muralista: La ciudad es famosa por sus murales, especialmente los creados por artistas como Diego Rivera, David Siqueiros y José Clemente Orozco, que pueden verse en lugares como el Palacio Nacional y el Hospital 20 de Noviembre.
+
+Música y teatro: La Ciudad de México es un centro musical y teatral de gran renombre. Desde la ópera en el Palacio de Bellas Artes hasta los conciertos en el Auditorio Nacional, la oferta musical abarca todos los géneros, incluyendo música popular, jazz, y la tradición del mariachi.
+
+3. Lugares emblemáticos y barrios
+La CDMX tiene una gran variedad de zonas y barrios que ofrecen experiencias diferentes:
+
+Centro Histórico: El Zócalo, la plaza principal de la ciudad, es el corazón de la CDMX, rodeado por importantes monumentos como la Catedral Metropolitana, el Palacio Nacional y el Templo Mayor, una antigua pirámide azteca.
+
+Chapultepec: Uno de los parques urbanos más grandes del mundo. En él se encuentra el Castillo de Chapultepec, además de varios museos como el Museo de Historia Natural y el Museo Tamayo.
+
+Polanco: Un barrio exclusivo con tiendas de lujo, restaurantes de alta gama y museos, como el Museo Soumaya.
+
+Coyoacán: Un pintoresco barrio bohemio, conocido por ser el hogar de Frida Kahlo y Diego Rivera. Es un lugar ideal para caminar, disfrutar de su arquitectura colonial y sus cafés.
+
+4. Economía
+La Ciudad de México es el motor económico de México y uno de los centros financieros más importantes de América Latina. Alberga una gran cantidad de empresas multinacionales, especialmente en sectores como el comercio, la industria, los servicios financieros, la tecnología y el turismo.
+
+La ciudad tiene una infraestructura moderna, con rascacielos en zonas como Santa Fe y Reforma, pero también conserva su arquitectura colonial y tradicional en áreas como el Centro Histórico.
+
+5. Transporte
+La CDMX cuenta con un sistema de transporte público extenso y económico:
+
+Metro: El Sistema de Transporte Colectivo (STC) Metro es uno de los más grandes del mundo, con 12 líneas que conectan diferentes partes de la ciudad.
+
+Trolebuses y autobuses: La ciudad también tiene una red de trolebuses y autobuses que cubren zonas que el metro no alcanza.
+
+Ciclovías y Ecobici: Se ha promovido el uso de la bicicleta con ciclovías dedicadas y el sistema Ecobici, una opción para quienes prefieren un medio de transporte más ecológico.
+
+Taxis y aplicaciones de transporte: Existen taxis tradicionales, pero también plataformas como Uber o DiDi son populares.
+
+6. Clima
+La Ciudad de México tiene un clima templado de montaña. En términos generales:
+
+Veranos: Son cálidos, con temperaturas entre 25-30°C, y es frecuente que llueva en las tardes.
+Inviernos: Las temperaturas bajan a alrededor de 6-10°C, pero rara vez hacen frío extremo.
+7. Gastronomía
+La CDMX es famosa por su gastronomía, que refleja la rica diversidad del país. Algunos platillos que no te puedes perder son:
+
+Tacos: Desde tacos al pastor hasta tacos de carnitas o de suadero, la ciudad tiene miles de opciones para todos los gustos.
+Tamales: Este platillo mexicano, que se puede encontrar en muchos mercados, es uno de los favoritos, especialmente en festividades.
+Tortas y quesadillas: Las tortas de chorizo y las quesadillas de diferentes tipos de guisos son populares.
+Mercados: Los mercados locales como el Mercado de la Merced o el Mercado de San Juan son perfectos para probar comida auténtica.
