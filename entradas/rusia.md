@@ -38,3 +38,5 @@ Pelmeni: Empanadillas rellenas de carne.
 Blini: Crepes rusos, que puedes disfrutar con mermelada, caviar o crema agria.
 Shchi: Sopa de repollo, otro clásico de la cocina rusa.
 
+# foto
+https://images.app.goo.gl/VCMy1WP4X2zfwbbh6
