@@ -28,3 +28,7 @@ El museo está ubicado en el Gran Canal, en el antiguo palacio de la familia Gug
 Cicchetti: Son los aperitivos venecianos, similares a las tapas españolas. Puedes probarlos en los pequeños bares llamados bàricos. No te pierdas las sarde in saor (sardinas marinadas) o los mozzarella in carrozza (mozzarella frita).
 Risotto al nero di seppia: Un risotto hecho con tinta de calamar, una especialidad veneciana deliciosa.
 Tiramisu: Aunque originario de Treviso, es un postre muy común en Venecia. ¡No te lo puedes perder!
+
+# foto
+https://images.app.goo.gl/wFB3ARbdkS1xj1D28
+
