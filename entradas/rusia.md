@@ -40,3 +40,17 @@ Shchi: Sopa de repollo, otro clásico de la cocina rusa.
 
 # foto
 https://images.app.goo.gl/VCMy1WP4X2zfwbbh6
+
+# informacion sobre Moscú
+Moscú, la capital de Rusia, es una de las ciudades más importantes y fascinantes del mundo, tanto desde el punto de vista político como cultural. Es la ciudad más grande del país y tiene una rica historia que abarca más de 800 años.
+
+Información general sobre Moscú:
+Ubicación:
+Moscú está situada en el oeste de Rusia, a orillas del río Moscova. Es el centro administrativo y económico del país, y está a unos 700 km de la frontera europea.
+
+Historia:
+Fundación: Moscú fue fundada en 1147, aunque la ciudad ha tenido múltiples influencias a lo largo de los siglos, desde el Reino de Moscovia hasta el Imperio Ruso y la Unión Soviética.
+Capitalidad: Fue la capital del Imperio Ruso durante siglos y, tras la Revolución Rusa, pasó a ser la capital de la Unión Soviética hasta su disolución en 1991. Hoy, es la capital de la Federación Rusa.
+Desarrollo: A lo largo de su historia, Moscú ha sido escenario de eventos clave como la invasión mongola en el siglo XIII, las Guerras Napoleónicas y la Revolución Rusa de 1917.
+Población:
+Moscú es la ciudad más poblada de Rusia y una de las más grandes de Europa, con una población de alrededor de 12,5 millones de habitantes. Además, es un importante centro de inmigración, con personas de diversas regiones de Rusia y otros países.
