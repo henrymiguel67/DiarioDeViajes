@@ -20,3 +20,6 @@ Broadway: Si tienes oportunidad, disfruta de un musical o una obra de teatro en 
 
 # foto
 https://images.app.goo.gl/EcEVg5LCZkNKfFqP8
+
+# informacion sobre nueva york
+ es una de las ciudades más icónicas y vibrantes del mundo. Conocida como "La Gran Manzana", es famosa por su diversidad cultural, su influencia global en economía, arte, moda, entretenimiento, y por ser el hogar de varios de los lugares más famosos y visitados del planeta. 
